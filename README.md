@@ -3,7 +3,7 @@ Moviedux
 A fictional movies app built with React, showcasing movie information with a clean, responsive UI.
 Demo
 
-Check out the live version: https://serene-crepe-372d9a.netlify.app
+Check out the live version: https://movieduck.netlify.app
 
 Features
 
